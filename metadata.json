@@ -1,0 +1,6 @@
+{
+  "name": "RuralLearn",
+  "description": "Digital Learning Platform for Rural School Students in Nabha connecting Students, Teachers, and School Management with AI Tutor, Offline Learning & Personal Learning Space",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
